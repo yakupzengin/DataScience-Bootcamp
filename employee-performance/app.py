@@ -6,8 +6,8 @@ from sklearn.preprocessing import StandardScaler
 
 st.title("Employee Performance Score Prediction")
 
-model = joblib.load("model.pkl")
-scaler = joblib.load("scaler.pkl")
+model = joblib.load("notebooks/random_forest_model.pkl")
+scaler = joblib.load("notebooks/scalerv1.pkl")
 
 st.sidebar.header("Set Input Values")
 def get_user_input():
