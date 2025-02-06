@@ -92,7 +92,3 @@ This project provides HR teams with data-driven insights into employee performan
 | **Outlier Detection**     | Identifying and handling abnormal data points that can affect model accuracy. |
 
 ---
-
-### Author
-**Yakup Zengin** - Data Science & Machine Learning Enthusiast
-
